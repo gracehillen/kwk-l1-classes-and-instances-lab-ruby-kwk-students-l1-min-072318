@@ -3,3 +3,6 @@ class Dog
   @snoopy = snoopy
   @lassie = lassie
 end
+fido = Dog.new 
+snoopy = Dog.new
+lassie = Dog.new
